@@ -1,0 +1,83 @@
+.main___title {
+    max-width: 1500px;
+}
+.main__title-item {
+    background-color: #CCFFFF;
+    padding: 1px;
+}
+.main__title-about {
+    color: #00FF99;
+}
+.todo {
+    max-width: 600px;
+    margin: auto;
+}
+
+.todo__ttl{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.todo__create {
+    padding: 0 40px 0 0;
+}
+
+.todo__create input {
+    width:450px;
+    height: 40px;
+}
+
+.todo__button button {
+    padding: 10px 40px 10px 40px;
+    background-color: #000;
+    color: #fff;
+    font-size: 10px;
+}
+.test {
+    text-align: left;
+    margin-top: 80px;
+}
+.test__title {
+    border-bottom: 1px solid #eeeeee;
+    margin: 0;
+}
+.test__title-item {
+    font-size: 25px;
+    padding-left: 10px;
+
+}
+.test__item {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #eeeeee;
+}
+.test__menu {
+    padding: 15px 0 10px 10px;
+    
+}
+.test__menu input {
+    border: none;
+    font-size: 15px;
+
+}
+.test__button {
+    display: flex;
+    padding: 10px 10px 10px 0;
+}
+.test__update {
+    padding-right: 10px;
+}
+.test__update button {
+    padding: 10px 20px 10px 20px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    font-size: 10px;
+}
+.test_delete button {
+    padding: 10px 20px 10px 20px;
+    background-color: red;
+    color: #fff;
+    border: none;
+    font-size: 10px;
+}

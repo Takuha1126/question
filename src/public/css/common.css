@@ -1,0 +1,13 @@
+.header {
+    max-width: 1500px;
+}
+.header__inner {
+    background-color: #000;
+    padding: 20px 0 20px 20px;
+    margin: 0;
+}
+.header__title {
+    color: #fff;
+    font-size: 30px;
+    text-decoration: none;
+}
